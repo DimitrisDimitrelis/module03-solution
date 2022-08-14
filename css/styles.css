@@ -1,0 +1,31 @@
+body {
+    background: #343434;
+    color: aliceblue;
+}
+
+#item-01,
+#item-02,
+#item-03 {
+    height: 1000px;
+}
+
+#item-01 a,
+#item-02 a,
+#item-03 a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#item-01 {
+    background: #1d4d1d;
+}
+
+
+#item-02 {
+    background: #1d8d1d;
+}
+
+#item-03 {
+    background: #1d2a1d;
+}
+
